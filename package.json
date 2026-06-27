@@ -1,0 +1,13 @@
+{
+  "name": "pinnacle-workspace",
+  "version": "1.0.0",
+  "description": "Workspace for Aayush Agarwal's Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "Aayush Agarwal",
+  "license": "ISC"
+}
